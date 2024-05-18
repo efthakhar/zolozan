@@ -1,2 +1,5 @@
-* Web Root: public folder
-* Entry Point: public/index.php
+### Web Root:
+public folder is the web root of zolozan project
+
+### Entry Point: 
+public/index.php is the entry point. 

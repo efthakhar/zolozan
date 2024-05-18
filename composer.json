@@ -1,0 +1,23 @@
+{
+    "name": "efthakhar/zolozan",
+    "type": "project",
+    "description": "The skeleton application for the Zolozan framework.",
+    "keywords": [
+        "zolozan",
+        "framework"
+    ],
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Zolozan\\Core\\": "core/",
+            "Zolozan\\Features\\": "features/"
+        }
+    },
+    "authors": [
+        {
+            "name": "efthakhar",
+            "email": "efthakharbin@gmail.com"
+        }
+    ],
+    "require": {}
+}
